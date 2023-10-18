@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\bin\Debug\net6.0\AlysonR.ControllerLibrary.deps.json
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\bin\Debug\net6.0\AlysonR.ControllerLibrary.dll
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\bin\Debug\net6.0\AlysonR.ControllerLibrary.pdb
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.dll
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\refint\AlysonR.ControllerLibrary.dll
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\AlysonR.ControllerLibrary.pdb
+C:\Users\Administrator\source\repos\AlysonR.ControllerLibrary\AlysonR.ControllerLibrary\obj\Debug\net6.0\ref\AlysonR.ControllerLibrary.dll
